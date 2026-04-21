@@ -3,9 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
-      <excludeFolder url="file://$MODULE_DIR$/03 pandas/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.14 (Jupyter)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.14 (04_matlib_homework)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
